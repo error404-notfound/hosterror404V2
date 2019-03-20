@@ -15,9 +15,13 @@ Este es uno de los muchos scripts que compartiremos para la gente de error404
 
 ### Requerimientos
 
-* **apt-get install python**
-* **pkg install pip**
-* **pip install requests**
+* **pkg upgrade**
+* **apt-get install git**
+* **git clone https://github.com/error404-notfound/hosterror404**
+* **apt-get install python2**
+* **pip2 install requests**
+* **pkg install readline**
+
 
 ---------------------------------------------------------------------------------------------
 ********************************************************************************************
@@ -26,4 +30,12 @@ Este es uno de los muchos scripts que compartiremos para la gente de error404
 
 ### Uso de este script
 
-* **python2 nombre.py**
+* **python2 HOST-ERROR404V2.py**
+
+---------------------------------------------------------------------------------------------
+********************************************************************************************
+---------------------------------------------------------------------------------------------
+
+### Este Script fue realizado
+
+* **ANGEL**
