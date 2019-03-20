@@ -1,0 +1,5 @@
+ APT-GET INSTALL PYTHON		
+
+pkg install pip
+pip install requests
+uso : python2 NOMBRE.py
