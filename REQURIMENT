@@ -1,5 +1,9 @@
  APT-GET INSTALL PYTHON		
-
-pkg install pip
-pip install requests
-uso : python2 NOMBRE.py
+ Apt-get install python
+ Apt-get install pip
+ Pkg install pip2
+ Pip2 install requests
+ Pkg install readline
+ Apt-get install python2
+ Python2 HOST-ERROR404V2.py
+ Acomodalo haci en el github
