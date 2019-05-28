@@ -11,7 +11,10 @@ Este es uno de los muchos scripts que compartiremos para la gente de error404
 
 ### TESTEADO
 * **Termux**
-
+* **Kali Linux**
+* **Ubuntun**
+* **Debian**
+* **GNUroot**
 
 ### Requerimientos
 
@@ -20,7 +23,7 @@ Este es uno de los muchos scripts que compartiremos para la gente de error404
 * **git clone https://github.com/error404-notfound/hosterror404**
 * **apt-get install python2**
 * **pip2 install requests**
-* **pkg install readline**
+* **pkg install readline** 
 
 
 ---------------------------------------------------------------------------------------------
