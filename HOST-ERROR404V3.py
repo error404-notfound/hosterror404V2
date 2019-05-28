@@ -55,7 +55,7 @@ f.write(t)
 f.write("Angel - https://www.facebook.com/error4o4.org")
 f.close()
 f=open("Angel.txt","r")
-a=""
+a="/"
 n=0
 for i in f:
            if i=="  <div class=\"enum \">\n":
@@ -70,9 +70,4 @@ for i in link:
     eliminate(i)
 for i in total:
         print(i)
-
-
-
-
 print("\nCompletado - Error404")
-
