@@ -1,5 +1,5 @@
 # Buscador de Host
-Este es uno de los muchos scripts que compartiremos para la gente de error404
+Herramienta enfocada en el test de descubrimiento de host activos de paginas web  . que posteriormente pueden ser explotadas las vulnerabilidades encontradas , dando un efoque a la comunidad android con tendencia a usar estas vulnerabilidades para entablar una conexion con el uso de los VPN.
 <p align="center">
   <img src="https://github.com/error404-notfound/hosterror404V2/blob/master/IMG-20190321-WA0014.jpg">  
 </p>
