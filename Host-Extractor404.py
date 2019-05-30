@@ -57,7 +57,7 @@ f.close()
 f=open("Angel.txt","r")
 a="/"
 n=0
-for i in f:
+for i in f.readlines():
            if i=="  <div class=\"enum \">\n":
                                             f.readline()
                                             a=f.readline()
@@ -70,4 +70,7 @@ for i in link:
     eliminate(i)
 for i in total:
         print(i)
+
 print("\nCompletado - Error404")
+
+
