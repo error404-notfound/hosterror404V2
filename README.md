@@ -23,6 +23,7 @@ Herramienta enfocada en el test de descubrimiento de host activos de paginas web
 * **git clone https://github.com/error404-notfound/hosterror404**
 * **apt-get install python2**
 * **pip2 install requests**
+* **pkg install wget** 
 * **pkg install readline** 
 
 
