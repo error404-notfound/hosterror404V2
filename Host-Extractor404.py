@@ -73,7 +73,6 @@ for i in total:
         print(i)
  
 print("\n")
-os.system(' wget https://crt.sh/?q=%25' +dom+'  -O - -q  sed "s/^<td>" ')
 print("\n")
 print("\nCompletado - Error404")
 
